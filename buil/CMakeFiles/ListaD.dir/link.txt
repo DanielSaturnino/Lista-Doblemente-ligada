@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ListaD.dir/src/Nodo.cpp.o CMakeFiles/ListaD.dir/src/main.cpp.o CMakeFiles/ListaD.dir/src/ListaD.cpp.o  -o ListaD -rdynamic 
